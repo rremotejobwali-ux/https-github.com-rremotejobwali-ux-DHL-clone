@@ -1,0 +1,5 @@
+{
+  "name": "Global News Now",
+  "description": "A comprehensive, real-time news application inspired by major networks. Features breaking news, categorized updates, and AI-generated detailed reporting using Google Gemini with Search Grounding.",
+  "requestFramePermissions": []
+}
